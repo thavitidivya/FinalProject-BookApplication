@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Downloads\\ProjectBackend\\ProjectBackend\\FavoriteService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D05A2937-B9A5-4C82-BB9D-0FAE9D039E0E}|FavoriteService\\FavoriteService.csproj|c:\\users\\administrator\\downloads\\projectbackend\\projectbackend\\favoriteservice\\favoriteservice\\models\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05A2937-B9A5-4C82-BB9D-0FAE9D039E0E}|FavoriteService\\FavoriteService.csproj|solutionrelative:favoriteservice\\models\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05A2937-B9A5-4C82-BB9D-0FAE9D039E0E}|FavoriteService\\FavoriteService.csproj|c:\\users\\administrator\\downloads\\projectbackend\\projectbackend\\favoriteservice\\favoriteservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05A2937-B9A5-4C82-BB9D-0FAE9D039E0E}|FavoriteService\\FavoriteService.csproj|solutionrelative:favoriteservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05A2937-B9A5-4C82-BB9D-0FAE9D039E0E}|FavoriteService\\FavoriteService.csproj|c:\\users\\administrator\\downloads\\projectbackend\\projectbackend\\favoriteservice\\favoriteservice\\controllers\\favoritescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05A2937-B9A5-4C82-BB9D-0FAE9D039E0E}|FavoriteService\\FavoriteService.csproj|solutionrelative:favoriteservice\\controllers\\favoritescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05A2937-B9A5-4C82-BB9D-0FAE9D039E0E}|FavoriteService\\FavoriteService.csproj|c:\\users\\administrator\\downloads\\projectbackend\\projectbackend\\favoriteservice\\favoriteservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D05A2937-B9A5-4C82-BB9D-0FAE9D039E0E}|FavoriteService\\FavoriteService.csproj|solutionrelative:favoriteservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05A2937-B9A5-4C82-BB9D-0FAE9D039E0E}|FavoriteService\\FavoriteService.csproj|c:\\users\\administrator\\downloads\\projectbackend\\projectbackend\\favoriteservice\\favoriteservice\\data\\bookappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05A2937-B9A5-4C82-BB9D-0FAE9D039E0E}|FavoriteService\\FavoriteService.csproj|solutionrelative:favoriteservice\\data\\bookappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05A2937-B9A5-4C82-BB9D-0FAE9D039E0E}|FavoriteService\\FavoriteService.csproj|c:\\users\\administrator\\downloads\\projectbackend\\projectbackend\\favoriteservice\\favoriteservice\\repository\\favoriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05A2937-B9A5-4C82-BB9D-0FAE9D039E0E}|FavoriteService\\FavoriteService.csproj|solutionrelative:favoriteservice\\repository\\favoriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05A2937-B9A5-4C82-BB9D-0FAE9D039E0E}|FavoriteService\\FavoriteService.csproj|c:\\users\\administrator\\downloads\\projectbackend\\projectbackend\\favoriteservice\\favoriteservice\\services\\ifavoriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05A2937-B9A5-4C82-BB9D-0FAE9D039E0E}|FavoriteService\\FavoriteService.csproj|solutionrelative:favoriteservice\\services\\ifavoriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05A2937-B9A5-4C82-BB9D-0FAE9D039E0E}|FavoriteService\\FavoriteService.csproj|c:\\users\\administrator\\downloads\\projectbackend\\projectbackend\\favoriteservice\\favoriteservice\\services\\favoriteservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05A2937-B9A5-4C82-BB9D-0FAE9D039E0E}|FavoriteService\\FavoriteService.csproj|solutionrelative:favoriteservice\\services\\favoriteservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05A2937-B9A5-4C82-BB9D-0FAE9D039E0E}|FavoriteService\\FavoriteService.csproj|c:\\users\\administrator\\downloads\\projectbackend\\projectbackend\\favoriteservice\\favoriteservice\\repository\\ifavoriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05A2937-B9A5-4C82-BB9D-0FAE9D039E0E}|FavoriteService\\FavoriteService.csproj|solutionrelative:favoriteservice\\repository\\ifavoriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05A2937-B9A5-4C82-BB9D-0FAE9D039E0E}|FavoriteService\\FavoriteService.csproj|c:\\users\\administrator\\downloads\\projectbackend\\projectbackend\\favoriteservice\\favoriteservice\\migrations\\20240717071520_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05A2937-B9A5-4C82-BB9D-0FAE9D039E0E}|FavoriteService\\FavoriteService.csproj|solutionrelative:favoriteservice\\migrations\\20240717071520_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FavoritesController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\ProjectBackend\\ProjectBackend\\FavoriteService\\FavoriteService\\Controllers\\FavoritesController.cs",
+              "RelativeDocumentMoniker": "FavoriteService\\Controllers\\FavoritesController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\ProjectBackend\\ProjectBackend\\FavoriteService\\FavoriteService\\Controllers\\FavoritesController.cs",
+              "RelativeToolTip": "FavoriteService\\Controllers\\FavoritesController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T15:02:50.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FavoriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\ProjectBackend\\ProjectBackend\\FavoriteService\\FavoriteService\\Repository\\FavoriteRepository.cs",
+              "RelativeDocumentMoniker": "FavoriteService\\Repository\\FavoriteRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\ProjectBackend\\ProjectBackend\\FavoriteService\\FavoriteService\\Repository\\FavoriteRepository.cs",
+              "RelativeToolTip": "FavoriteService\\Repository\\FavoriteRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAYwCwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T14:57:30.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IFavoriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\ProjectBackend\\ProjectBackend\\FavoriteService\\FavoriteService\\Repository\\IFavoriteRepository.cs",
+              "RelativeDocumentMoniker": "FavoriteService\\Repository\\IFavoriteRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\ProjectBackend\\ProjectBackend\\FavoriteService\\FavoriteService\\Repository\\IFavoriteRepository.cs",
+              "RelativeToolTip": "FavoriteService\\Repository\\IFavoriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T14:55:50.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\ProjectBackend\\ProjectBackend\\FavoriteService\\FavoriteService\\appsettings.json",
+              "RelativeDocumentMoniker": "FavoriteService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\ProjectBackend\\ProjectBackend\\FavoriteService\\FavoriteService\\appsettings.json",
+              "RelativeToolTip": "FavoriteService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-16T15:05:31.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Favorite.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\ProjectBackend\\ProjectBackend\\FavoriteService\\FavoriteService\\Models\\Favorite.cs",
+              "RelativeDocumentMoniker": "FavoriteService\\Models\\Favorite.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\ProjectBackend\\ProjectBackend\\FavoriteService\\FavoriteService\\Models\\Favorite.cs",
+              "RelativeToolTip": "FavoriteService\\Models\\Favorite.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T14:30:33.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\ProjectBackend\\ProjectBackend\\FavoriteService\\FavoriteService\\Program.cs",
+              "RelativeDocumentMoniker": "FavoriteService\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\ProjectBackend\\ProjectBackend\\FavoriteService\\FavoriteService\\Program.cs",
+              "RelativeToolTip": "FavoriteService\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvycAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T15:03:56.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240717071520_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\ProjectBackend\\ProjectBackend\\FavoriteService\\FavoriteService\\Migrations\\20240717071520_initial.cs",
+              "RelativeDocumentMoniker": "FavoriteService\\Migrations\\20240717071520_initial.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\ProjectBackend\\ProjectBackend\\FavoriteService\\FavoriteService\\Migrations\\20240717071520_initial.cs",
+              "RelativeToolTip": "FavoriteService\\Migrations\\20240717071520_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T07:15:20.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IFavoriteService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\ProjectBackend\\ProjectBackend\\FavoriteService\\FavoriteService\\Services\\IFavoriteService.cs",
+              "RelativeDocumentMoniker": "FavoriteService\\Services\\IFavoriteService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\ProjectBackend\\ProjectBackend\\FavoriteService\\FavoriteService\\Services\\IFavoriteService.cs",
+              "RelativeToolTip": "FavoriteService\\Services\\IFavoriteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T14:59:22.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FavoriteServices.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\ProjectBackend\\ProjectBackend\\FavoriteService\\FavoriteService\\Services\\FavoriteServices.cs",
+              "RelativeDocumentMoniker": "FavoriteService\\Services\\FavoriteServices.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\ProjectBackend\\ProjectBackend\\FavoriteService\\FavoriteService\\Services\\FavoriteServices.cs",
+              "RelativeToolTip": "FavoriteService\\Services\\FavoriteServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T15:01:19.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookAppContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\ProjectBackend\\ProjectBackend\\FavoriteService\\FavoriteService\\Data\\BookAppContext.cs",
+              "RelativeDocumentMoniker": "FavoriteService\\Data\\BookAppContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\ProjectBackend\\ProjectBackend\\FavoriteService\\FavoriteService\\Data\\BookAppContext.cs",
+              "RelativeToolTip": "FavoriteService\\Data\\BookAppContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T14:53:38.627Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

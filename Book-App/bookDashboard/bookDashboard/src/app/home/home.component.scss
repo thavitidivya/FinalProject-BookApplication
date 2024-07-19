@@ -1,0 +1,62 @@
+/* home.component.css */
+
+.background-image {
+    height: 100vh; /* Adjust height as needed */
+    background-image: url('https://cdn.pixabay.com/photo/2020/06/26/13/14/blur-5342680_1280.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .overlay {
+    background-color: rgba(0, 0, 0, 0.122); /* Adjust overlay color and opacity */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: black; /* Text color for overlay content */
+  }
+  
+  .overlay h1 {
+    text-align: left;
+    font-display: left;
+    font-size: 3rem; /* Adjust heading font size */
+  }
+  
+  .overlay p {
+    text-align: left;
+    font-display: left;
+    font-size: 1.5rem; /* Adjust paragraph font size */
+  }
+  
+  .navbar {
+    height: 80px;
+    font-size: x-large;
+    display: flex;
+    justify-content: flex-end; /* Align items to the right */
+    padding: 10px; /* Adjust padding as needed */
+    background-color: rgba(17, 6, 1, 0.875); 
+  }
+  
+  .navbar a {
+    color: white; /* Link text color */
+    text-decoration: none; /* Remove underline from links */
+    margin-left: 10px; /* Add margin between links */
+  }
+  
+  .navbar a:hover {
+    text-decoration: underline; /* Underline links on hover */
+  }
+  

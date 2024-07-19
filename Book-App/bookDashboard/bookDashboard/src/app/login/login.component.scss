@@ -1,0 +1,68 @@
+.h1{
+    text-align: center;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.mb-3{
+font-size: large;
+font-weight: 500;
+margin-bottom: 20px;
+padding-bottom: 14px;
+}
+
+.mt-3{
+    font-size: medium;
+    font-weight: 600;
+}
+.form-control{
+    width: 300px;
+    height: 50px;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    background: url('https://img.freepik.com/premium-photo/book-shelf-with-books-it-light-wall_391229-154.jpg') no-repeat center center fixed; 
+    background-size: cover;
+}
+
+.container{
+    display: flex;
+            flex-direction: column;
+            align-items: center;
+            background-color: rgba(255, 255, 255, 0.8); /* Slightly transparent background */
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            max-width: 500px;
+            height: 450px;
+
+}
+
+
+.form-group.button-group {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    font-size: x-large;
+    height: max-content;
+    margin-bottom: 30px;
+    padding-bottom: 50px;
+}
+
+button[type="submit"] {
+    height: 50px;
+    padding: 10px 10px; /* Increase the padding to increase button height */
+    font-size: 20px;
+    font-weight: bold;
+    background-color: darkturquoise;
+    color: white;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
